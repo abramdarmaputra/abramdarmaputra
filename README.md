@@ -31,9 +31,6 @@ _Designed a TCP echo server-client communication system using C._
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://drive.google.com/drive/folders/195xH79RSuFtZF5XxtARKQMlSHMyjcMHs?usp=sharing)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@blueskyy___1)
 
-## 📊 GitHub Stats
-![Abram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abramdarmaputra&show_icons=true&theme=radical)
-
 ## 🔥 Fun Facts About Me
 🧠 I love **reading scientific articles** about trending global phenomena.  
 🔎 I enjoy **researching software engineering advancements to stay up-to-date with industry trends.**
