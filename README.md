@@ -1,6 +1,6 @@
 # Hi, I'm Abram! 👋
 
-💡 Recent **Computer Engineering (CompEng)** graduate with a passion for **Software Engineering**<br>
+💡 **Computer Engineering (CompEng)** background with a passion for **Software Engineering**<br>
 🚀 I build cool projects using **Python**, **JavaScript**, & **C**<br>
 🎯 Currently looking for opportunities to **contribute, grow, and innovate in tech!**
 
