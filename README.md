@@ -1,7 +1,7 @@
 # Hi, I'm Abram! 👋
 
 💡 **Computer Engineering (CompEng)** background with a passion for **Software Engineering**<br>
-🚀 I build cool projects using **Python**, **JavaScript**, & **C**<br>
+🚀 I build cool projects using **Python**, **C**, **JavaScript**, & **Java**<br>
 🎯 Currently looking for opportunities to **contribute, grow, and innovate in tech!**
 
 ## 🚀 Skills & Tools
